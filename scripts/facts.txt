@@ -1,0 +1,31 @@
+# One fact per line; generate.py picks one per day.
+Scientists once believed all of space was filled with a substance called "ether".
+Python is named after Monty Python's Flying Circus, not the snake.
+The first computer "bug" was a real moth, taped into the Harvard Mark II logbook in 1947.
+Octopuses have three hearts, and two of them stop beating when they swim.
+A day on Venus is longer than a year on Venus.
+Honey found in ancient Egyptian tombs was still edible.
+The Unix epoch began on 1 January 1970, so every timestamp is secretly counting from then.
+Bananas are berries; strawberries are not.
+Git was written by Linus Torvalds in about ten days in 2005.
+There are more possible games of chess than atoms in the observable universe.
+Light from the Sun takes about 8 minutes and 20 seconds to reach Earth.
+The word "robot" comes from the Czech "robota", meaning forced labour.
+Sharks existed before trees did.
+The first 1 GB hard drive (IBM, 1980) weighed about 250 kg.
+Wombat droppings are cube-shaped.
+A single teaspoon of neutron star would weigh around a billion tonnes.
+JavaScript was prototyped in ten days in 1995.
+The Eiffel Tower grows about 15 cm taller in summer as the iron expands.
+Ada Lovelace wrote what is considered the first computer program in the 1840s.
+Hot water can sometimes freeze faster than cold water (the Mpemba effect).
+There is a planet, 55 Cancri e, that may be partly made of diamond.
+The QWERTY layout was designed partly to stop typewriter keys jamming.
+Tardigrades can survive the vacuum of space.
+The @ symbol was picked for email by Ray Tomlinson in 1971 because it was rarely used.
+Your brain uses roughly 20% of your body's energy.
+The first domain ever registered was symbolics.com, in 1985.
+Sound travels about four times faster in water than in air.
+"import this" in Python prints the Zen of Python.
+A group of flamingos is called a flamboyance.
+The Apollo 11 guidance computer had about 4 KB of RAM.
