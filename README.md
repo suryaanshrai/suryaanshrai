@@ -60,5 +60,3 @@
 <em>Scientists once believed all of space was filled with a substance called &quot;ether&quot;.</em>
 <!-- FACT:END -->
 </p>
-
-<p align="center"><sub>Everything above is plain SVG + Markdown, re-rendered daily by <a href="scripts/generate.py"><code>scripts/generate.py</code></a>.</sub></p>
