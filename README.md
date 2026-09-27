@@ -20,7 +20,12 @@
 <h3 align="center"><code>&gt;&gt;&gt; help(me.projects)</code></h3>
 
 <!-- PROJECTS:START -->
-<p align="center"><em>Rendered by the profile workflow.</em></p>
+<p align="center">
+<a href="https://github.com/suryaanshrai/omnipost"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/omnipost-dark.svg"><img src="assets/projects/omnipost-light.svg" alt="omnipost" width="48%"></picture></a>
+<a href="https://github.com/suryaanshrai/minesweeper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/minesweeper-dark.svg"><img src="assets/projects/minesweeper-light.svg" alt="minesweeper" width="48%"></picture></a>
+<a href="https://github.com/suryaanshrai/cube_solver"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/cube_solver-dark.svg"><img src="assets/projects/cube_solver-light.svg" alt="cube_solver" width="48%"></picture></a>
+<a href="https://github.com/suryaanshrai/jovialText"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/jovialText-dark.svg"><img src="assets/projects/jovialText-light.svg" alt="jovialText" width="48%"></picture></a>
+</p>
 <!-- PROJECTS:END -->
 
 <h3 align="center"><code>&gt;&gt;&gt; me.stats()</code></h3>
@@ -39,7 +44,12 @@
 <h3 align="center"><code>&gt;&gt;&gt; me.recent()</code></h3>
 
 <!-- NOW:START -->
-- _Rendered by the profile workflow._
+- 🔨 Pushed to [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· today</sub>
+- 🔀 Merged PR [#3](https://github.com/suryaanshrai/suryaanshrai/pull/3) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· today</sub>
+- 🔀 Opened PR [#3](https://github.com/suryaanshrai/suryaanshrai/pull/3) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· today</sub>
+- 🔀 Merged PR [#2](https://github.com/suryaanshrai/suryaanshrai/pull/2) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· today</sub>
+- 🔀 Opened PR [#2](https://github.com/suryaanshrai/suryaanshrai/pull/2) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· today</sub>
+- 🔨 Pushed to [suryaanshrai/cube_solver](https://github.com/suryaanshrai/cube_solver) <sub>· 6 days ago</sub>
 <!-- NOW:END -->
 
 <br>
@@ -47,7 +57,7 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>Scientists once believed all of space was filled with a substance called "ether".</em>
+<em>Scientists once believed all of space was filled with a substance called &quot;ether&quot;.</em>
 <!-- FACT:END -->
 </p>
 
