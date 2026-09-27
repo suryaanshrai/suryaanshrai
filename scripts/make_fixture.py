@@ -41,6 +41,8 @@ fixture = {"graphql": {"user": {
     "events": [
         {"type": "PushEvent", "repo": {"name": "suryaanshrai/sample-api"}, "payload": {}, "created_at": "2026-09-27T08:00:00Z"},
         {"type": "PushEvent", "repo": {"name": "suryaanshrai/sample-api"}, "payload": {}, "created_at": "2026-09-26T08:00:00Z"},
+        {"type": "PullRequestEvent", "repo": {"name": "suryaanshrai/sample-api"}, "created_at": "2026-09-26T09:00:00Z",
+         "payload": {"action": "opened", "number": 5, "pull_request": {"url": "https://api.github.com/repos/suryaanshrai/sample-api/pulls/5", "id": 1, "number": 5}}},
         {"type": "PullRequestEvent", "repo": {"name": "someorg/lib"}, "created_at": "2026-09-24T08:00:00Z",
          "payload": {"action": "closed", "pull_request": {"number": 42, "title": "Fix [edge] case in *parser*", "merged": True, "html_url": "https://github.com/someorg/lib/pull/42"}}},
         {"type": "WatchEvent", "repo": {"name": "astral-sh/uv"}, "payload": {"action": "started"}, "created_at": "2026-09-20T08:00:00Z"},

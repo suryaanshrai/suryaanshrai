@@ -434,38 +434,60 @@ def md(s):
     return re.sub(r"([\[\]*_`<>|])", r"\\\1", s)
 
 
+def describe(e):
+    """One Markdown line for a public event, or None to skip it.
+
+    The events API trims payloads (PRs/issues may lack title and html_url), so
+    links are built from the repo name and number and titles are optional.
+    """
+    repo = e["repo"]["name"]
+    base = f"https://github.com/{repo}"
+    rl = f"[{repo}]({base})"
+    p = e.get("payload") or {}
+    t = e["type"]
+
+    def ref(item, kind):
+        num = item.get("number")
+        title = f" {md(item['title'])}" if item.get("title") else ""
+        return f"[#{num}{title}]({item.get('html_url') or f'{base}/{kind}/{num}'})" if num else "one"
+
+    if t == "PushEvent":
+        return f"🔨 Pushed to {rl}"
+    if t == "PullRequestEvent":
+        pr = p.get("pull_request") or {}
+        action = p.get("action", "")
+        verb = "Merged" if action == "closed" and pr.get("merged") else action.capitalize() or "Updated"
+        return f"🔀 {verb} PR {ref(pr, 'pull')} in {rl}"
+    if t == "IssuesEvent":
+        return f"🐛 {p.get('action', 'updated').capitalize()} issue {ref(p.get('issue') or {}, 'issues')} in {rl}"
+    if t == "IssueCommentEvent":
+        return f"💬 Commented on {ref(p.get('issue') or {}, 'issues')} in {rl}"
+    if t == "PullRequestReviewEvent":
+        return f"👀 Reviewed a PR in {rl}"
+    if t == "CreateEvent" and p.get("ref_type") == "repository":
+        return f"✨ Created {rl}"
+    if t == "ReleaseEvent":
+        tag = (p.get("release") or {}).get("tag_name")
+        return f"🚀 Released `{md(tag)}` of {rl}" if tag else f"🚀 Published a release of {rl}"
+    if t == "WatchEvent":
+        return f"⭐ Starred {rl}"
+    if t == "ForkEvent":
+        return f"🍴 Forked {rl}"
+    return None
+
+
 def recent(events, now, limit=6):
     lines, seen = [], set()
     for e in events:
-        repo = e["repo"]["name"]
-        rl = f"[{repo}](https://github.com/{repo})"
-        p = e.get("payload") or {}
-        t = e["type"]
-        if t == "PushEvent":
-            text = f"🔨 Pushed to {rl}"
-        elif t == "PullRequestEvent" and p.get("pull_request"):
-            pr = p["pull_request"]
-            verb = "Merged" if p.get("action") == "closed" and pr.get("merged") else p.get("action", "").capitalize()
-            text = f"🔀 {verb} PR [#{pr['number']} {md(pr.get('title') or '')}]({pr['html_url']}) in {rl}"
-        elif t == "IssuesEvent" and p.get("issue"):
-            iss = p["issue"]
-            text = f"🐛 {p.get('action', '').capitalize()} issue [#{iss['number']} {md(iss.get('title') or '')}]({iss['html_url']}) in {rl}"
-        elif t == "IssueCommentEvent" and p.get("issue"):
-            iss = p["issue"]
-            text = f"💬 Commented on [#{iss['number']}]({iss['html_url']}) in {rl}"
-        elif t == "PullRequestReviewEvent":
-            text = f"👀 Reviewed a PR in {rl}"
-        elif t == "CreateEvent" and p.get("ref_type") == "repository":
-            text = f"✨ Created {rl}"
-        elif t == "ReleaseEvent":
-            text = f"🚀 Released `{md((p.get('release') or {}).get('tag_name', ''))}` of {rl}"
-        elif t == "WatchEvent":
-            text = f"⭐ Starred {rl}"
-        elif t == "ForkEvent":
-            text = f"🍴 Forked {rl}"
-        else:
+        try:
+            text = describe(e)
+        except (KeyError, TypeError, AttributeError) as err:   # never let one odd event break the run
+            print(f"skipping {e.get('type')} event: {err!r}", file=sys.stderr)
             continue
-        key = (t, repo) if t in ("PushEvent", "WatchEvent", "IssueCommentEvent", "PullRequestReviewEvent") else text
+        if not text:
+            continue
+        key = (e["type"], e["repo"]["name"]) if e["type"] in (
+            "PushEvent", "WatchEvent", "IssueCommentEvent", "PullRequestReviewEvent") else text
         if key in seen:
             continue
         seen.add(key)
