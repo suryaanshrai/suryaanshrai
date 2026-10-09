@@ -44,12 +44,12 @@
 <h3 align="center"><code>&gt;&gt;&gt; me.recent()</code></h3>
 
 <!-- NOW:START -->
-- 🔨 Pushed to [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 10 days ago</sub>
-- 🔀 Merged PR [#4](https://github.com/suryaanshrai/suryaanshrai/pull/4) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 10 days ago</sub>
-- 🔀 Opened PR [#4](https://github.com/suryaanshrai/suryaanshrai/pull/4) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 10 days ago</sub>
-- 🔀 Merged PR [#3](https://github.com/suryaanshrai/suryaanshrai/pull/3) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 10 days ago</sub>
-- 🔀 Opened PR [#3](https://github.com/suryaanshrai/suryaanshrai/pull/3) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 10 days ago</sub>
-- 🔀 Merged PR [#2](https://github.com/suryaanshrai/suryaanshrai/pull/2) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 10 days ago</sub>
+- 🔨 Pushed to [suryaanshrai/scibot](https://github.com/suryaanshrai/scibot) <sub>· today</sub>
+- 🔨 Pushed to [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· today</sub>
+- 🔨 Pushed to [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· today</sub>
+- 🔨 Pushed to [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 11 days ago</sub>
+- 🔀 Merged PR [#4](https://github.com/suryaanshrai/suryaanshrai/pull/4) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 11 days ago</sub>
+- 🔀 Opened PR [#4](https://github.com/suryaanshrai/suryaanshrai/pull/4) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 11 days ago</sub>
 <!-- NOW:END -->
 
 <br>
@@ -57,6 +57,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>The word &quot;robot&quot; comes from the Czech &quot;robota&quot;, meaning forced labour.</em>
+<em>Sharks existed before trees did.</em>
 <!-- FACT:END -->
 </p>
