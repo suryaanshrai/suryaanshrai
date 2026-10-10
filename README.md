@@ -44,12 +44,12 @@
 <h3 align="center"><code>&gt;&gt;&gt; me.recent()</code></h3>
 
 <!-- NOW:START -->
-- 🔨 Pushed to [suryaanshrai/scibot](https://github.com/suryaanshrai/scibot) <sub>· today</sub>
-- 🔨 Pushed to [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· today</sub>
-- 🔨 Pushed to [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· today</sub>
-- 🔨 Pushed to [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 11 days ago</sub>
-- 🔀 Merged PR [#4](https://github.com/suryaanshrai/suryaanshrai/pull/4) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 11 days ago</sub>
-- 🔀 Opened PR [#4](https://github.com/suryaanshrai/suryaanshrai/pull/4) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 11 days ago</sub>
+- 🔨 Pushed to [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· yesterday</sub>
+- 🔨 Pushed to [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· yesterday</sub>
+- 🔨 Pushed to [suryaanshrai/scibot](https://github.com/suryaanshrai/scibot) <sub>· yesterday</sub>
+- 🔨 Pushed to [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 12 days ago</sub>
+- 🔀 Merged PR [#4](https://github.com/suryaanshrai/suryaanshrai/pull/4) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 12 days ago</sub>
+- 🔀 Opened PR [#4](https://github.com/suryaanshrai/suryaanshrai/pull/4) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 12 days ago</sub>
 <!-- NOW:END -->
 
 <br>
@@ -57,6 +57,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>Sharks existed before trees did.</em>
+<em>The first 1 GB hard drive (IBM, 1980) weighed about 250 kg.</em>
 <!-- FACT:END -->
 </p>
