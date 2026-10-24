@@ -57,6 +57,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>Sound travels about four times faster in water than in air.</em>
+<em>&quot;import this&quot; in Python prints the Zen of Python.</em>
 <!-- FACT:END -->
 </p>
