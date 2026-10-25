@@ -57,6 +57,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>&quot;import this&quot; in Python prints the Zen of Python.</em>
+<em>A group of flamingos is called a flamboyance.</em>
 <!-- FACT:END -->
 </p>
