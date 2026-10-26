@@ -47,9 +47,9 @@
 - 🔨 Pushed to [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 2 weeks ago</sub>
 - 🔨 Pushed to [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 2 weeks ago</sub>
 - 🔨 Pushed to [suryaanshrai/scibot](https://github.com/suryaanshrai/scibot) <sub>· 2 weeks ago</sub>
-- 🔨 Pushed to [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 3 weeks ago</sub>
-- 🔀 Merged PR [#4](https://github.com/suryaanshrai/suryaanshrai/pull/4) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 3 weeks ago</sub>
-- 🔀 Opened PR [#4](https://github.com/suryaanshrai/suryaanshrai/pull/4) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 3 weeks ago</sub>
+- 🔨 Pushed to [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 4 weeks ago</sub>
+- 🔀 Merged PR [#4](https://github.com/suryaanshrai/suryaanshrai/pull/4) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 4 weeks ago</sub>
+- 🔀 Opened PR [#4](https://github.com/suryaanshrai/suryaanshrai/pull/4) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 4 weeks ago</sub>
 <!-- NOW:END -->
 
 <br>
@@ -57,6 +57,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>A group of flamingos is called a flamboyance.</em>
+<em>The Apollo 11 guidance computer had about 4 KB of RAM.</em>
 <!-- FACT:END -->
 </p>
