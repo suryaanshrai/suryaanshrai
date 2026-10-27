@@ -57,6 +57,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>The Apollo 11 guidance computer had about 4 KB of RAM.</em>
+<em>Scientists once believed all of space was filled with a substance called &quot;ether&quot;.</em>
 <!-- FACT:END -->
 </p>
