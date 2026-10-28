@@ -47,9 +47,6 @@
 - 🔨 Pushed to [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 2 weeks ago</sub>
 - 🔨 Pushed to [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 2 weeks ago</sub>
 - 🔨 Pushed to [suryaanshrai/scibot](https://github.com/suryaanshrai/scibot) <sub>· 2 weeks ago</sub>
-- 🔨 Pushed to [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 4 weeks ago</sub>
-- 🔀 Merged PR [#4](https://github.com/suryaanshrai/suryaanshrai/pull/4) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 4 weeks ago</sub>
-- 🔀 Opened PR [#4](https://github.com/suryaanshrai/suryaanshrai/pull/4) in [suryaanshrai/suryaanshrai](https://github.com/suryaanshrai/suryaanshrai) <sub>· 4 weeks ago</sub>
 <!-- NOW:END -->
 
 <br>
@@ -57,6 +54,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>Scientists once believed all of space was filled with a substance called &quot;ether&quot;.</em>
+<em>Python is named after Monty Python&#x27;s Flying Circus, not the snake.</em>
 <!-- FACT:END -->
 </p>
