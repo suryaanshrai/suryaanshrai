@@ -54,6 +54,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>Python is named after Monty Python&#x27;s Flying Circus, not the snake.</em>
+<em>The first computer &quot;bug&quot; was a real moth, taped into the Harvard Mark II logbook in 1947.</em>
 <!-- FACT:END -->
 </p>
