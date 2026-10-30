@@ -44,9 +44,9 @@
 <h3 align="center"><code>&gt;&gt;&gt; me.recent()</code></h3>
 
 <!-- NOW:START -->
-- 🔨 Pushed to [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 2 weeks ago</sub>
-- 🔨 Pushed to [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 2 weeks ago</sub>
-- 🔨 Pushed to [suryaanshrai/scibot](https://github.com/suryaanshrai/scibot) <sub>· 2 weeks ago</sub>
+- 🔨 Pushed to [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 3 weeks ago</sub>
+- 🔨 Pushed to [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 3 weeks ago</sub>
+- 🔨 Pushed to [suryaanshrai/scibot](https://github.com/suryaanshrai/scibot) <sub>· 3 weeks ago</sub>
 <!-- NOW:END -->
 
 <br>
@@ -54,6 +54,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>The first computer &quot;bug&quot; was a real moth, taped into the Harvard Mark II logbook in 1947.</em>
+<em>Octopuses have three hearts, and two of them stop beating when they swim.</em>
 <!-- FACT:END -->
 </p>
