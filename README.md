@@ -54,6 +54,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>Octopuses have three hearts, and two of them stop beating when they swim.</em>
+<em>A day on Venus is longer than a year on Venus.</em>
 <!-- FACT:END -->
 </p>
