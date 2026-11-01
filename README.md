@@ -54,6 +54,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>A day on Venus is longer than a year on Venus.</em>
+<em>Honey found in ancient Egyptian tombs was still edible.</em>
 <!-- FACT:END -->
 </p>
