@@ -54,6 +54,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>Honey found in ancient Egyptian tombs was still edible.</em>
+<em>The Unix epoch began on 1 January 1970, so every timestamp is secretly counting from then.</em>
 <!-- FACT:END -->
 </p>
