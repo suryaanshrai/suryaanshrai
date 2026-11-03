@@ -54,6 +54,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>The Unix epoch began on 1 January 1970, so every timestamp is secretly counting from then.</em>
+<em>Bananas are berries; strawberries are not.</em>
 <!-- FACT:END -->
 </p>
