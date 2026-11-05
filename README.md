@@ -44,9 +44,12 @@
 <h3 align="center"><code>&gt;&gt;&gt; me.recent()</code></h3>
 
 <!-- NOW:START -->
-- 🔨 Pushed to [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 3 weeks ago</sub>
-- 🔨 Pushed to [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 3 weeks ago</sub>
-- 🔨 Pushed to [suryaanshrai/scibot](https://github.com/suryaanshrai/scibot) <sub>· 3 weeks ago</sub>
+- 🔨 Pushed to [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· yesterday</sub>
+- 🔨 Pushed to [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· yesterday</sub>
+- 🔨 Pushed to [suryaanshrai/omnipost](https://github.com/suryaanshrai/omnipost) <sub>· yesterday</sub>
+- 🔀 Opened PR [#1](https://github.com/suryaanshrai/omnipost/pull/1) in [suryaanshrai/omnipost](https://github.com/suryaanshrai/omnipost) <sub>· yesterday</sub>
+- 🔀 Opened PR [#2](https://github.com/suryaanshrai/omnipost-ui/pull/2) in [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· yesterday</sub>
+- 🔀 Opened PR [#5](https://github.com/suryaanshrai/omnipost-api/pull/5) in [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· yesterday</sub>
 <!-- NOW:END -->
 
 <br>
@@ -54,6 +57,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>Bananas are berries; strawberries are not.</em>
+<em>There are more possible games of chess than atoms in the observable universe.</em>
 <!-- FACT:END -->
 </p>
