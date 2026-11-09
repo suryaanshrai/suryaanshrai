@@ -44,12 +44,12 @@
 <h3 align="center"><code>&gt;&gt;&gt; me.recent()</code></h3>
 
 <!-- NOW:START -->
-- 🔨 Pushed to [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 4 days ago</sub>
-- 🔨 Pushed to [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 4 days ago</sub>
-- 🔨 Pushed to [suryaanshrai/omnipost](https://github.com/suryaanshrai/omnipost) <sub>· 4 days ago</sub>
-- 🔀 Opened PR [#1](https://github.com/suryaanshrai/omnipost/pull/1) in [suryaanshrai/omnipost](https://github.com/suryaanshrai/omnipost) <sub>· 4 days ago</sub>
-- 🔀 Opened PR [#2](https://github.com/suryaanshrai/omnipost-ui/pull/2) in [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 4 days ago</sub>
-- 🔀 Opened PR [#5](https://github.com/suryaanshrai/omnipost-api/pull/5) in [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 4 days ago</sub>
+- ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) <sub>· today</sub>
+- ⭐ Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) <sub>· today</sub>
+- ⭐ Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>· today</sub>
+- ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) <sub>· today</sub>
+- ⭐ Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) <sub>· today</sub>
+- ⭐ Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) <sub>· today</sub>
 <!-- NOW:END -->
 
 <br>
@@ -57,6 +57,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>Sharks existed before trees did.</em>
+<em>The first 1 GB hard drive (IBM, 1980) weighed about 250 kg.</em>
 <!-- FACT:END -->
 </p>
