@@ -44,12 +44,12 @@
 <h3 align="center"><code>&gt;&gt;&gt; me.recent()</code></h3>
 
 <!-- NOW:START -->
-- ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) <sub>· yesterday</sub>
-- ⭐ Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) <sub>· yesterday</sub>
-- ⭐ Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>· yesterday</sub>
-- ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) <sub>· yesterday</sub>
-- ⭐ Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) <sub>· yesterday</sub>
-- ⭐ Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) <sub>· yesterday</sub>
+- ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) <sub>· 2 days ago</sub>
+- ⭐ Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) <sub>· 2 days ago</sub>
+- ⭐ Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>· 2 days ago</sub>
+- ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) <sub>· 2 days ago</sub>
+- ⭐ Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) <sub>· 2 days ago</sub>
+- ⭐ Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) <sub>· 2 days ago</sub>
 <!-- NOW:END -->
 
 <br>
@@ -57,6 +57,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>Wombat droppings are cube-shaped.</em>
+<em>A single teaspoon of neutron star would weigh around a billion tonnes.</em>
 <!-- FACT:END -->
 </p>
