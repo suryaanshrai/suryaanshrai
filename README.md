@@ -44,12 +44,12 @@
 <h3 align="center"><code>&gt;&gt;&gt; me.recent()</code></h3>
 
 <!-- NOW:START -->
-- ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) <sub>· 5 days ago</sub>
-- ⭐ Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) <sub>· 5 days ago</sub>
-- ⭐ Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>· 5 days ago</sub>
-- ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) <sub>· 5 days ago</sub>
-- ⭐ Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) <sub>· 5 days ago</sub>
-- ⭐ Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) <sub>· 5 days ago</sub>
+- ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) <sub>· 6 days ago</sub>
+- ⭐ Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) <sub>· 6 days ago</sub>
+- ⭐ Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>· 6 days ago</sub>
+- ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) <sub>· 6 days ago</sub>
+- ⭐ Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) <sub>· 6 days ago</sub>
+- ⭐ Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) <sub>· 6 days ago</sub>
 <!-- NOW:END -->
 
 <br>
@@ -57,6 +57,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>Ada Lovelace wrote what is considered the first computer program in the 1840s.</em>
+<em>Hot water can sometimes freeze faster than cold water (the Mpemba effect).</em>
 <!-- FACT:END -->
 </p>
