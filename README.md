@@ -44,12 +44,12 @@
 <h3 align="center"><code>&gt;&gt;&gt; me.recent()</code></h3>
 
 <!-- NOW:START -->
-- ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) <sub>· 6 days ago</sub>
-- ⭐ Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) <sub>· 6 days ago</sub>
-- ⭐ Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>· 6 days ago</sub>
-- ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) <sub>· 6 days ago</sub>
-- ⭐ Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) <sub>· 6 days ago</sub>
-- ⭐ Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) <sub>· 6 days ago</sub>
+- 🔀 Merged PR [#5](https://github.com/suryaanshrai/omnipost-api/pull/5) in [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· today</sub>
+- ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) <sub>· 7 days ago</sub>
+- ⭐ Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) <sub>· 7 days ago</sub>
+- ⭐ Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>· 7 days ago</sub>
+- ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) <sub>· 7 days ago</sub>
+- ⭐ Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) <sub>· 7 days ago</sub>
 <!-- NOW:END -->
 
 <br>
@@ -57,6 +57,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>Hot water can sometimes freeze faster than cold water (the Mpemba effect).</em>
+<em>There is a planet, 55 Cancri e, that may be partly made of diamond.</em>
 <!-- FACT:END -->
 </p>
