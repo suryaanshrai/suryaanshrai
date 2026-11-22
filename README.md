@@ -44,12 +44,12 @@
 <h3 align="center"><code>&gt;&gt;&gt; me.recent()</code></h3>
 
 <!-- NOW:START -->
-- 🔨 Pushed to [suryaanshrai/website](https://github.com/suryaanshrai/website) <sub>· yesterday</sub>
-- 🔀 Opened PR [#24](https://github.com/suryaanshrai/omnipost-ui/pull/24) in [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· yesterday</sub>
-- 🔨 Pushed to [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 4 days ago</sub>
-- 🔨 Pushed to [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 4 days ago</sub>
-- 💬 Commented on [#12 Bump actions/checkout from 4.2.2 to 7.0.1](https://github.com/suryaanshrai/omnipost-api/pull/12) in [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 4 days ago</sub>
-- 💬 Commented on [#9 Bump docker/setup-buildx-action from 3.11.1 to 4.4.1](https://github.com/suryaanshrai/omnipost-ui/pull/9) in [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 4 days ago</sub>
+- 🔨 Pushed to [suryaanshrai/website](https://github.com/suryaanshrai/website) <sub>· 2 days ago</sub>
+- 🔀 Opened PR [#24](https://github.com/suryaanshrai/omnipost-ui/pull/24) in [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 2 days ago</sub>
+- 🔨 Pushed to [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 5 days ago</sub>
+- 🔨 Pushed to [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 5 days ago</sub>
+- 💬 Commented on [#12 Bump actions/checkout from 4.2.2 to 7.0.1](https://github.com/suryaanshrai/omnipost-api/pull/12) in [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 5 days ago</sub>
+- 💬 Commented on [#9 Bump docker/setup-buildx-action from 3.11.1 to 4.4.1](https://github.com/suryaanshrai/omnipost-ui/pull/9) in [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 5 days ago</sub>
 <!-- NOW:END -->
 
 <br>
@@ -57,6 +57,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>The first domain ever registered was symbolics.com, in 1985.</em>
+<em>Sound travels about four times faster in water than in air.</em>
 <!-- FACT:END -->
 </p>
