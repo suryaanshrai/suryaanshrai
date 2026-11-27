@@ -44,12 +44,12 @@
 <h3 align="center"><code>&gt;&gt;&gt; me.recent()</code></h3>
 
 <!-- NOW:START -->
-- 🔨 Pushed to [suryaanshrai/website](https://github.com/suryaanshrai/website) <sub>· 6 days ago</sub>
-- 🔀 Opened PR [#24](https://github.com/suryaanshrai/omnipost-ui/pull/24) in [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 6 days ago</sub>
-- 🔨 Pushed to [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 9 days ago</sub>
-- 🔨 Pushed to [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 9 days ago</sub>
-- 💬 Commented on [#12 Bump actions/checkout from 4.2.2 to 7.0.1](https://github.com/suryaanshrai/omnipost-api/pull/12) in [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 9 days ago</sub>
-- 💬 Commented on [#9 Bump docker/setup-buildx-action from 3.11.1 to 4.4.1](https://github.com/suryaanshrai/omnipost-ui/pull/9) in [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 9 days ago</sub>
+- 🔨 Pushed to [suryaanshrai/website](https://github.com/suryaanshrai/website) <sub>· 7 days ago</sub>
+- 🔀 Opened PR [#24](https://github.com/suryaanshrai/omnipost-ui/pull/24) in [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 7 days ago</sub>
+- 🔨 Pushed to [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 10 days ago</sub>
+- 🔨 Pushed to [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 10 days ago</sub>
+- 💬 Commented on [#12 Bump actions/checkout from 4.2.2 to 7.0.1](https://github.com/suryaanshrai/omnipost-api/pull/12) in [suryaanshrai/omnipost-api](https://github.com/suryaanshrai/omnipost-api) <sub>· 10 days ago</sub>
+- 💬 Commented on [#9 Bump docker/setup-buildx-action from 3.11.1 to 4.4.1](https://github.com/suryaanshrai/omnipost-ui/pull/9) in [suryaanshrai/omnipost-ui](https://github.com/suryaanshrai/omnipost-ui) <sub>· 10 days ago</sub>
 <!-- NOW:END -->
 
 <br>
@@ -57,6 +57,6 @@
 <p align="center">
   <sub><code>&gt;&gt;&gt; random.choice(me.fun_facts)</code></sub><br>
 <!-- FACT:START -->
-<em>Scientists once believed all of space was filled with a substance called &quot;ether&quot;.</em>
+<em>Python is named after Monty Python&#x27;s Flying Circus, not the snake.</em>
 <!-- FACT:END -->
 </p>
